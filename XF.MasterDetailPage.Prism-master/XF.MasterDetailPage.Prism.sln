@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XF.MasterDetailPage.Prism.A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XF.MasterDetailPage.Prism.iOS", "XF.MasterDetailPage.Prism\XF.MasterDetailPage.Prism.iOS\XF.MasterDetailPage.Prism.iOS.csproj", "{A169CEDF-7E8A-470E-B3FD-2E51F78E8CF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XF.MasterDetailPage.Prism.UWP", "XF.MasterDetailPage.Prism\XF.MasterDetailPage.Prism.UWP\XF.MasterDetailPage.Prism.UWP.csproj", "{2B2B0614-8E75-4324-A171-4790AB545498}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XF.MasterDetailPage.Prism", "XF.MasterDetailPage.Prism\XF.MasterDetailPage.Prism\XF.MasterDetailPage.Prism.csproj", "{7DF0DBD4-6E1F-4425-BE93-E26C410F081A}"
 EndProject
 Global
